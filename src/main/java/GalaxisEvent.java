@@ -20,7 +20,7 @@ public class GalaxisEvent {
     }
 
 
-    // https://discord.gg/zM4xaWWs5E
+  
 
 
 }
